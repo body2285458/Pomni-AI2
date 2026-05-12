@@ -5,16 +5,16 @@ import sub from './sub.js';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '201206676595', // Bot number
+  phoneNumber: '201206676955', // Bot number
   prefix: [".", "/", "!"],
   fromMe: false, 
   owners: [
   // Owner 1
-    { name: "VA", lid: "201206676595@lid", jid: "972569311531@s.whatsapp.net" },
+    { name: "VA", lid: "201206676955@lid", jid: "972569311531@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "201206676595@s.whatsapp.net" },
+    { name: "emam", lid: "221307316789354@lid", jid: "201206676955@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "201206676595@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "Sukuna", jid: "201206676955@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
    { name: "عمورتي", jid: "201028723173@s.whatsapp.net", lid: "51664513925368@lid" }
   ],
