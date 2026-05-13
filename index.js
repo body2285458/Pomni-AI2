@@ -5,18 +5,18 @@ import sub from './sub.js';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '20123456789', // Bot number
+  phoneNumber: '201028723173', // Bot number
   prefix: [".", "/", "!"],
-  fromMe: false, 
+  fromMe: true, 
   owners: [
   // Owner 1
-    { name: "VA", lid: "247579682029763@lid", jid: "972569311531@s.whatsapp.net" },
+    { name: "𝑨𝑩𝑫𝑶🥷🏼", lid: "201206676955@lid", jid: "201206676955@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "201144480436@s.whatsapp.net" },
+    { name: "𝑨𝑩𝑫𝑶🥷🏼", lid: "201206676955", jid: "201206676955@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "الــبــرازيــلــي", jid: "201028723173@s.whatsapp.net", lid: "201028723173@lid" },
   // Owner 4 
-   { name: "عمورتي", jid: "201050079089@s.whatsapp.net", lid: "51664513925368@lid" }
+   { name: "2الــبــرازيــلــي, jid: "201206676955@s.whatsapp.net", lid: "201206676955@lid" }
   ],
   settings: { noWelcome: false },
   commandsPath: './plugins'
@@ -33,7 +33,7 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ 𝙋𝙊𝙈𝙉𝙄 🎪 〈", 
+  nameBot: "venom", 
   nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
