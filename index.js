@@ -35,7 +35,7 @@ const { config } = client;
 config.info = { 
   nameBot: "♡ABDO", 
   nameChannel: "ABDO", 
-  idChannel: "120363225356834044@newsletter",
+  idChannel: "0029Vb7jrngFXUubfL7QjQ22@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
