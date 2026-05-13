@@ -28,7 +28,7 @@ let control = async (m, { command, text, conn, bot, participants }) => {
             return m.reply("*✅ تمت الإضافة*");
         }
         
-        if (command === "طرد") {
+        if (command === "انطر") {
             let user = getUser();
             if (!user) return m.reply("❌ منشن أو رد على العضو");
             
