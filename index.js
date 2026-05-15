@@ -32,7 +32,7 @@ config.info = {
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029Vb7jrngFXUubfL7QjQ22"
+    channel: "https://whatsapp.com/channel/0029Vb85pA27T8bVjyHW1B3Q"
   },
   copyright: { 
     pack: '𝑨𝑩𝑫𝑶', 
