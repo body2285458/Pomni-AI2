@@ -26,9 +26,9 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ABDO", 
-  nameChannel: "ABDO", 
-  idChannel: "0029Vb7jrngFXUubfL7QjQ22@newsletter",
+  nameBot: "𝑬𝑳𝑩𝑹𝑨𝒁𝑰𝑳𝒀", 
+  nameChannel: "𝑬𝑳𝑩𝑹𝑨𝒁𝑰𝑳𝒀 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🇧🇷⚡️", 
+  idChannel: "120363427228734118",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
