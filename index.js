@@ -7,7 +7,7 @@ import sub from './sub.js';
 const client = new Client({
   phoneNumber: '201028723173', // Bot number
   prefix: [".", "/", "!"],
-  fromMe: true, 
+  fromMe: false, 
   owners: [
   // Owner 1
     { name: "𝑨𝑩𝑫𝑶", lid: "201206676955@lid", jid: "201206676955@s.whatsapp.net" },],
