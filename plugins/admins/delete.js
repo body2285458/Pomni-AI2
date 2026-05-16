@@ -1,5 +1,5 @@
 const handler = async (m, { conn }) => {
-  if (!m.quoted) return m.reply(" 🌹 - رد علي الرساله يا ذكي ")
+  if (!m.quoted) return m.reply(" رد على الرساله يعم متكفرنيش ")
   m.quoted.delete()
  // m.delete()
 };
