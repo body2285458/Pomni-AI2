@@ -38,7 +38,7 @@ let control = async (m, { command, text, conn, bot, participants }) => {
             }
             
             await conn.groupParticipantsUpdate(m.chat, [user], 'remove');
-            return m.reply("✅ تم الطرد");
+            return m.reply("✅ تم النطر");
         }
         
         if (command === "رفع") {
@@ -60,8 +60,8 @@ let control = async (m, { command, text, conn, bot, participants }) => {
     }
 };
 
-control.usage = ['ضيف', 'طرد', 'رفع', 'خفض'];
-control.command = ['ضيف', 'طرد', 'رفع', 'خفض'];
+control.usage = ['ضيف', 'انطر', 'رفع', 'خفض'];
+control.command = ['ضيف', 'انطر', 'رفع', 'خفض'];
 control.admin = true;
 control.botAdmin = true;
 control.category = "admin";
