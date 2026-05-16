@@ -1,13 +1,13 @@
 import { AiChat } from "../../system/utils.js";
 
 const handler = async (m, { conn, text, bot }) => {
-  if (!text) return m.reply("💙 ~ حط نص جنب الأمر ~ ❤️");
+  if (!text) return m.reply(" ايه يا غالي حد في حد مضايقك ولا ايه ");
   const res = await AiChat({ text });
   m.reply(res);
 };
 
-handler.usage = ["بوت"];
+handler.usage = ["برازيلي"];
 handler.category = "ai";
-handler.command = ["بوت"];
+handler.command = ["برازيلي"];
 
 export default handler;
