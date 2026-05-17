@@ -22,8 +22,8 @@ if (data && data.length > 0) {
         ],
         mentions: [m.sender],
         newsletter: {
-            name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
-            jid: '120363225356834044@newsletter'
+            name: '𝑬𝑳𝑩𝑹𝑨𝒁𝑰𝑳𝒀 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🇧🇷⚡️',
+            jid: '120363427228734118@newsletter'
         },
     }, global.reply_status)
 } else {
