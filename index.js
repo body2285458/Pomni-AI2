@@ -36,7 +36,7 @@ config.info = {
   },
   copyright: { 
     pack: '𝑨𝑩𝑫𝑶', 
-    author: '𝑨𝑩𝑫𝑶'
+    author: '01206676955'
   },
   images: [
     "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",
