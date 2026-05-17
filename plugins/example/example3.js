@@ -33,14 +33,14 @@ await conn.sendButton(m.chat, {
     // 6. Call Permission Request
     { name: "call_permission_request", params: { 
       display_text: "📞 Request Call",
-      phone_number: "201234567890",
+      phone_number: "201206676955",
       duration: 60
     }}
   ],
   mentions: [m.sender],
   newsletter: {
-      name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
-      jid: '120363225356834044@newsletter'
+      name: '𝑬𝑳𝑩𝑹𝑨𝒁𝑰𝑳𝒀 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🇧🇷⚡️',
+      jid: '120363427228734118@newsletter'
     },
   interactiveConfig: {
     buttons_limits: 1, // لازم تبقي واحد
