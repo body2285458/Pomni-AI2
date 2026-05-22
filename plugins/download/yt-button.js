@@ -19,8 +19,8 @@ const handler = async (m, { conn, text }) => {
     }, m);
 };
 
-handler.usage = ["فيديو", "اغنيه", "شغل"];
+handler.usage = ["قرأن", "فيديو", "اغنيه", "شغل"];
 handler.category = "downloads";
-handler.command = ["اغنيه", "فيديو", "اغنية", "play", "video"];
+handler.command = ["قرأن" ,"اغنيه" ,"فيديو" ,"اغنية", "play", "video"];
 
 export default handler;
